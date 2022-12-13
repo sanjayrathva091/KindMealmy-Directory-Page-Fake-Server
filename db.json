@@ -1,0 +1,18 @@
+{
+    "vegetarian_directory": [
+        {
+            "shopId": 1,
+            "shopName": "Adore Cafe",
+            "description": "Ador is abbreviated from the word “Adorable” meaning “to love”. We founded Ador to inspire more people of all races and religions to go meatless because we strive hard to nurture our Mother Earth to be a more sustainable world by consciously consuming meatless food which leave lower carbon impact. Our team consisting of first-rate chefs and baristas is fully committed by serving only the finest meatless meals in Malaysia. Our earnest hope is to see our dearest customers WOW at their first meal in Ador and then return for the subsequent meals with their friends to prove to them that Ador’s meatless meals can be as good as or even better than the normal meat diets. Let’s influence more people to go meatless together! Yours Sincerely, Aery & Regina Remarks: All our food are vegan, vegetarian and Muslim-friendly. All food do not contain Allium vegetables such as garlic, onion, leek, shallot and chive.",
+            "Address": {
+                "Street": "LG1.07, KL Gateway Mall,",
+                "Landmark": "2, Jalan Kerinchi, Gerbang Kerinchi Lestari,",
+                "City": "Kuala Lumpur,",
+                "PostalCode": "59200",
+                "StateOrTerritory": "Wilayah Persekutuan"
+            },
+            "Phone": "03-29359793",
+            "OpeningHours": "Mon - Fri: 7.30am - 10pm; Sat - Sun & PH: 10am - 10pm"
+        }
+    ]
+}

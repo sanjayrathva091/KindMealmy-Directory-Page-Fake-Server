@@ -13,6 +13,610 @@
             },
             "Phone": "03-29359793",
             "OpeningHours": "Mon - Fri: 7.30am - 10pm; Sat - Sun & PH: 10am - 10pm"
+        },
+        {
+            "shopName": "Alam N-Ion",
+            "description": "We serve delicious home-cooked vegetarian meals, crafted with the healthiest ingredients and plenty of love. We also sell natural, handmade clay and wooden Buddhist crafts, health supplements, and homemade beauty products.",
+            "Address": {
+                "Street": "15, Jalan 12/144A,",
+                "Landmark": "Taman Bukit Cheras",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kuala Lumpur,",
+                "Postal Code": "58200"
+            },
+            "Phone": "03-2110 0811",
+            "OpeningHours": "Mon-Sun, 10am-10pm",
+            "id": 2
+        },
+        {
+            "shopName": "All Vegetarian Mart",
+            "description": "All Vegetarian Mart is a cafe-style vegetarian mart, with selected vegan options available. We delight you with a delicious range of Asian and Western cuisines, complemented with an assortment of quality beverages. Dine in and take away are available. Our mart features a range of quality groceries and products.",
+            "Address": {
+                "Street": "-01-1 (First Floor), M-City",
+                "Landmark": "Ampang 326, Jalan Ampang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "+603-7722 1142",
+            "OpeningHours": "Fri - Wed: 9am - 4pm; Thu: Closed",
+            "id": 3
+        },
+        {
+            "shopName": "Berjaya Cafe",
+            "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of lifestyle that focuses not only on health and well-being, our Berjaya Cafe brings you the ambiance of a contemporary dining restaurant overlooking the skyline and magnificent city view of Kuala Lumpur. We also took measures to serve our guests with an edible selection of freshly picked ingredients. Choose from our variety spread of vegetarian cuisine, we can assure our guests will savour only the best in vegetarian gastronomic experience.",
+            "Address": {
+                "Street": "Level 14 West, Berjaya Times Square Hotel, No. 1",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Selangor"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Daily: 6:30am - 9:00pm",
+            "id": 4
+        },
+        {
+            "shopName": "Beyond Veggie - Nexus Bangsar South Branch",
+            "description": "A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredients with no colouring or preservatives, no MSG, just healthy and delicious choices! Beyond Veggie by Secret Recipe was shortlisted Best Healthy Eats in the Time Out KL Food Awards 2013 and 2014.",
+            "Address": {
+                "Street": "Unit G-8, Ground Floor, Nexus, No. 7,",
+                "Landmark": "Jalan Kerinchi",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-9011-8438",
+            "OpeningHours": "Tue-Sun 11am-3pm, 6:30-10pm.",
+            "id": 5
+        },
+        {
+            "shopName": "Beyond Veggie - TTDI Branch",
+            "description": "A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredients with no colouring or preservatives, no MSG, just healthy and delicious choices! Beyond Veggie by Secret Recipe was shortlisted Best Healthy Eats in the Time Out KL Food Awards 2013 and 2014.",
+            "Address": {
+                "Street": "Lot 54, Ground Floor, Jalan Tun Mohd. Fuad 1",
+                "Landmark": "Taman Tun Dr Ismail,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang"
+            },
+            "Phone": "03-22723799, 03-22843799",
+            "OpeningHours": "Mon-Sat: 10am - 7.30pm (Valentime Bread Available Mon-Sat 10am-7.30pm)",
+            "id": 6
+        },
+        {
+            "shopName": "Biogreen Kepong Bukit Maluri",
+            "description": "Made Fresh, Eat Fresh Every Day at Valentime! Valentime by Biogreen is a bakery that bakes only organic and healthy bread using the best ingredients including organic unbleached flour, unrefined sugar, grape seed oil, Biogreen products and other healthy ingredients. At Valentime Bakery, we believe that good luck comes with good health, we hope you enjoy every bite of the delightful bread as an organic gift of good health and luck.",
+            "Address": {
+                "Street": "No. 9 Jalan Burung Tiung",
+                "Landmark": "Taman Bukit Maluri,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "03-2110 0811",
+            "OpeningHours": "Daily 10am-9.30pm.",
+            "id": 7
+        },
+        {
+            "shopName": "Boye Vegetarian Cafe",
+            "description": "Here at Boye, we’re a young, energetic team of people who are passionate about serving delicious, healthy, and fresh vegetarian food with a smile. We love what we do and the value we bring our local neighborhood. Please come and say hi to our friendly staff! You can also visit us online at www.boyecafe.com. ",
+            "Address": {
+                "Street": "No.3, Block C, Jalan Semarak Api 2 (3/50)",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-4031 8833",
+            "OpeningHours": "Mon - Tue, Thu - Sun: 9am - 9pm; Wed: Closed",
+            "id": 8
+        },
+        {
+            "shopName": "Brew Lodge Cafe",
+            "description": "Welcome to Brew Lodge Café. A good day starts with coffee and you. We specialize in house-brand coffee beans, homemade cakes and toasts. Our style here is meatless cafe to encourage a healthy life and animal welfare. Without meat, with original food taste. We offer breakfast, lunch , brunch, dinner and desserts. From a hot latte, perfect soup of the day, signature buttermilk pasta to Black Laura waffle, we promise that it will be tasty and fresh.",
+            "Address": {
+                "Street": "6, Jalan Bunga Tanjung 9B",
+                "Landmark": "Sri Petaling",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang",
+                "Postal Code": "50470"
+            },
+            "Phone": "03-79873228",
+            "OpeningHours": "Mon-Sun 3:00pm-10:00pm",
+            "id": 9
+        },
+        {
+            "shopName": "Hijau",
+            "description": "Hijau is a Japanese Asian fusion plant-based comfort food and healthy pleasure.",
+            "Address": {
+                "Street": "114-116, Jalan Berhala,",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong",
+                "Postal Code": "56100"
+            },
+            "Phone": "03-20342399",
+            "OpeningHours": "Mon, Wed - Fri: 11am - 9pm; Sat - Sun: 11am - 10pm; Tue: Closed",
+            "id": 10
+        },
+        {
+            "shopName": "Brownies Bar (The Gardens Mall)",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "Level 14 West,",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang",
+                "Postal Code": "52100"
+            },
+            "Phone": "03-21449011",
+            "OpeningHours": "Mon - Sun: 11am - 11pm",
+            "id": 11
+        },
+        {
+            "shopName": "Choy Ma's Kitchen",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "1, Jalan Thamboosamy,",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "03-21178000",
+            "OpeningHours": "Mon - Sun: 11am - 10pm",
+            "id": 12
+        },
+        {
+            "shopName": "Dharma Realm Guan Yin Sagely Mostery",
+            "description": "Hijau is a Japanese Asian fusion plant-based comfort food and healthy pleasure.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "Jalan Tun Mohd. Fuad 1, Taman Tun Dr Ismail,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Selangor"
+            },
+            "Phone": "03-21178000",
+            "OpeningHours": "Mon - Sun: 10am - 10pm",
+            "id": 13
+        },
+        {
+            "shopName": "Cameleon Vegetarian Restaurant",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "Sri Petaling",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kuala Lumpur,"
+            },
+            "Phone": "019-281 3281",
+            "OpeningHours": "Daily 10am-10pm.",
+            "id": 14
+        },
+        {
+            "shopName": "I Love Veggie Steamboat",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "1, Jalan Thamboosamy,",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "03-21178000",
+            "OpeningHours": "Tue-Sun 11am-3pm, 6:30-10pm.",
+            "id": 15
+        },
+        {
+            "shopName": "Berjaya Cafe",
+            "description": "Under Maintenance",
+            "Address": {
+                "Street": "1, Jalan Thamboosamy,",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "019-275 9973",
+            "OpeningHours": "Daily 10am-9.30pm.",
+            "id": 16
+        },
+        {
+            "shopName": "Biogreen Kepong Bukit Maluri",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "114-116, Jalan Berhala,",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "03-62778052",
+            "OpeningHours": "Wed - Mon: 10am - 6.30pm; Tue: Closed",
+            "id": 17
+        },
+        {
+            "shopName": "MBG LRT Bangsar",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "-01-1 (First Floor), M-City",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Not available — Inform us",
+            "id": 18
+        },
+        {
+            "shopName": "Dining Bowl",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "114-116, Jalan Berhala,",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Not available — Inform us",
+            "id": 19
+        },
+        {
+            "shopName": "Earth Kid Enterprise",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "Sri Petaling",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "+603-7722 1142",
+            "OpeningHours": "Tue-Sun 11am-3pm, 6:30-10pm.",
+            "id": 20
+        },
+        {
+            "shopName": "Mama Burger KL",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "-01-1 (First Floor), M-City",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kuala Lumpur,"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Daily 10am-10pm.",
+            "id": 21
+        },
+        {
+            "shopName": "Beyond Veggie - Nexus Bangsar South Branch",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "Sri Petaling",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-2110 0811",
+            "OpeningHours": "Mon-Sat: 10am - 7.30pm (Valentime Bread Available Mon-Sat 10am-7.30pm)",
+            "id": 22
+        },
+        {
+            "shopName": "Beyond Veggie - TTDI Branch",
+            "description": "Under Maintenance",
+            "Address": {
+                "Street": "1, Jalan Thamboosamy,",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-6270 1284",
+            "OpeningHours": "Mon, Wed - Fri: 11am - 9pm; Sat - Sun: 11am - 10pm; Tue: Closed",
+            "id": 23
+        },
+        {
+            "shopName": "Earth Kid Enterprise",
+            "description": "Hijau is a Japanese Asian fusion plant-based comfort food and healthy pleasure.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "03-2110 0811",
+            "OpeningHours": "Mon - Wed, Fri - Sun: 8am - 10pm; Thu (Closed)",
+            "id": 24
+        },
+        {
+            "shopName": "Annalakshmi Vegetarian Restaurant",
+            "description": "Hijau is a Japanese Asian fusion plant-based comfort food and healthy pleasure.",
+            "Address": {
+                "Street": "1, Jalan Thamboosamy,",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-2110 0811",
+            "OpeningHours": "Not available — Inform us",
+            "id": 25
+        },
+        {
+            "shopName": "Biogreen Kepong Bukit Maluri",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "Level 14 West,",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Mon - Wed, Fri - Sun: 8am - 10pm; Thu (Closed)",
+            "id": 26
+        },
+        {
+            "shopName": "Cabana Acai Bar",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "Sri Petaling",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang"
+            },
+            "Phone": "+603-7722 1142",
+            "OpeningHours": "Tue-Sun 11am-3pm, 6:30-10pm.",
+            "id": 27
+        },
+        {
+            "shopName": "Earth Kid Enterprise",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "-01-1 (First Floor), M-City",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang"
+            },
+            "Phone": "03-21178000",
+            "OpeningHours": "Daily 10am-10pm.",
+            "id": 28
+        },
+        {
+            "shopName": "Easy Vege Experience",
+            "description": "Under Maintenance",
+            "Address": {
+                "Street": "114-116, Jalan Berhala,",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-2110 0811",
+            "OpeningHours": "Mon - Wed, Fri - Sun: 8am - 10pm; Thu (Closed)",
+            "id": 29
+        },
+        {
+            "shopName": "Joez Coconut Kiosk",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "15, Jalan 12/144A,",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang"
+            },
+            "Phone": "03-2110 0811",
+            "OpeningHours": "Not available — Inform us",
+            "id": 30
+        },
+        {
+            "shopName": "Imperial Art Cottage 文献坊",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "Diamond Square, Setapak,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kuala Lumpur,"
+            },
+            "Phone": "03-21178000",
+            "OpeningHours": "Tue-Sun 11am-3pm, 6:30-10pm.",
+            "id": 31
+        },
+        {
+            "shopName": "Beyond Veggie - TTDI Branch",
+            "description": "Under Maintenance",
+            "Address": {
+                "Street": "114-116, Jalan Berhala,",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Selangor"
+            },
+            "Phone": "0126371798",
+            "OpeningHours": "Mon-Sun 7:30am-9:30pm",
+            "id": 32
+        },
+        {
+            "shopName": "Brownies Bar (Pavilion Elite)",
+            "description": "Cameleon Vegetarian Restaurant is a Chinese Vegetarian Restaurant that is located along Jalan Thamboosamy. Capable of serving 180 pax at any one time, the restaurant is well established in the area.",
+            "Address": {
+                "Street": "-01-1 (First Floor), M-City",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-62778052",
+            "OpeningHours": "Mon - Wed, Fri - Sun: 8am - 10pm; Thu (Closed)",
+            "id": 33
+        },
+        {
+            "shopName": "Berjaya Cafe",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "114-116, Jalan Berhala,",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Not available — Inform us",
+            "id": 34
+        },
+        {
+            "shopName": "Blue Boy Vegetarian Food Centre",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "12,14,14-1, Persiaran Mergatua,",
+                "Landmark": "Jalan Imbi, Bukit Bintang,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Ampang"
+            },
+            "Phone": "03-21178000",
+            "OpeningHours": "Mon - Wed, Fri - Sun: 8am - 10pm; Thu (Closed)",
+            "id": 35
+        },
+        {
+            "shopName": "MBG LRT Bangsar",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "15, Jalan 12/144A,",
+                "Landmark": "Sri Petaling",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "016-2276949",
+            "OpeningHours": "Daily 10am-10pm.",
+            "id": 36
+        },
+        {
+            "shopName": "Cameleon Vegetarian Restaurant",
+            "description": "Cameleon Vegetarian Restaurant is a Chinese Vegetarian Restaurant that is located along Jalan Thamboosamy. Capable of serving 180 pax at any one time, the restaurant is well established in the area.",
+            "Address": {
+                "Street": "1, Jalan Thamboosamy,",
+                "Landmark": "Faber Plaza, Taman Desa (at Jalan Klang Lama),",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Selangor"
+            },
+            "Phone": "03-4031 8833",
+            "OpeningHours": "Daily: 6:30am - 9:00pm",
+            "id": 37
+        },
+        {
+            "shopName": "Dining Bowl",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "Level 14 West, Berjaya Times Square Hotel, No. 1",
+                "Landmark": "Sri Petaling",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "03-21178000",
+            "OpeningHours": "Not available — Inform us",
+            "id": 38
+        },
+        {
+            "shopName": "Brownies Bar (Pavilion Elite)",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "Level 14 West,",
+                "Landmark": "Brickfields,",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Selangor"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Mon-Fri 11am-2:30pm.",
+            "id": 39
+        },
+        {
+            "shopName": "Choy Ma's Kitchen",
+            "description": "We are a unique vegetarian restaurant / café operating on a fast food concept, serving a wide range of delicate burgers, bean to cup coffees and more.",
+            "Address": {
+                "Street": "114-116, Jalan Berhala,",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Kepong"
+            },
+            "Phone": "03-21648055, 03-21645988",
+            "OpeningHours": "Tue-Sun 11am-3pm, 6:30-10pm.",
+            "id": 40
+        },
+        {
+            "shopName": "Bakti Woodlands Vegetarian Food Cafe",
+            "description": "Ming Yuan Vegetarian Home 茗原素之家 offers a wide range of oriental and local delights that are healthy and tasty! The best place for meals with a feeling of home, made with much tender love and care.",
+            "Address": {
+                "Street": "1, Jalan Thamboosamy,",
+                "Landmark": "(at /off Jln. Kuchai Lama)",
+                "PostalCode": "",
+                "StateOrTerritory": "Wilayah Persekutuan",
+                "Country": "",
+                "City": "Johor"
+            },
+            "Phone": "+6016-220 1326",
+            "OpeningHours": "Mon-Fri 11am-2:30pm.",
+            "id": 41
         }
     ]
 }
